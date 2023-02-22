@@ -1,5 +1,13 @@
 # Research about Jotai
 
+# Demo project
+
+
+
+https://user-images.githubusercontent.com/33323750/220510887-a9c32ab0-4b23-401b-913f-567a38ec5f16.mov
+
+
+
 One of the main concept of React is that it power by the hook **React useState** and from there we will can modify the state of any value we created in that component, but to built more complex application we need mutiple component so that the need for reuse the state is become a problem, so how can we improve it?
 
 There are several ways to pass state to other components in React:
